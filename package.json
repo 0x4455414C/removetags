@@ -1,0 +1,29 @@
+{
+  "name": "removetags",
+  "version": "0.0.1",
+  "description": "Removes html tags in a given string",
+  "main": "removetags",
+  "scripts": {
+    "test": "node removeTags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dual1tyx/removetags.git"
+  },
+  "keywords": [
+    "string",
+    "remove",
+    "html",
+    "input",
+    "output",
+    "js",
+    "tags",
+    "tag"
+  ],
+  "author": "dual1ty <dual1tyx@hotmail.co.uk> (http://dual1ty.me)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dual1tyx/removetags/issues"
+  },
+  "homepage": "https://github.com/dual1tyx/removetags#readme"
+}
